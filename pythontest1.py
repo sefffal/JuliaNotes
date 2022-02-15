@@ -6,6 +6,6 @@ for i in range(0,1_000_000):
 end = time.time()
 elapsed = (end - start)
 
-instrs = 3.5e9 * elapsed/1000000
+instrs = 3.5e9 * elapsed/1_000_000
 
 print(f"Est. instructions per Python multiply: {instrs}")
