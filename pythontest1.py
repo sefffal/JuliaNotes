@@ -1,4 +1,3 @@
-
 import time
 start = time.time()
 for i in range(0,1_000_000):
