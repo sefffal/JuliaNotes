@@ -184,7 +184,7 @@ md"""
 
 * Start pluto notebooks: `using Pluto; Pluto.run()`
 
-* Paste URL to this notebook: `https://github.com/sefffal/JuliaNotes/blob/master/notes-1.ipynb`
+* Paste URL to this notebook: `https://github.com/sefffal/JuliaNotes/raw/master/julia-workshop.jl`
 """
 
 # ╔═╡ 18781b6c-7a89-44de-8c8b-7f72d8bc9b47
@@ -3522,7 +3522,7 @@ version = "3.5.0+0"
 # ╠═42ea29e3-b48e-4f12-bf40-f24fd2407bd5
 # ╟─f820fee7-dea8-4329-8bae-ddbae130e802
 # ╟─cf265d34-740d-4e14-8bdd-2db70d9e5966
-# ╟─6fa7c392-bfbb-4bb1-958c-693e08a95266
+# ╠═6fa7c392-bfbb-4bb1-958c-693e08a95266
 # ╟─18781b6c-7a89-44de-8c8b-7f72d8bc9b47
 # ╟─2401c963-0bba-42ae-adb8-39a5cd455ad9
 # ╠═4d5351d9-c208-4c02-88f2-2d962e23f03a
