@@ -24,4 +24,4 @@ William Thompson --- 2024-04-25
 
 * Start pluto notebooks: `using Pluto; Pluto.run()`
 
-* Paste URL to this notebook: [https://github.com/sefffal/JuliaNotes/blob/master/notes-1.ipynb](https://github.com/sefffal/JuliaNotes/raw/master/julia-workshop.jl)](https://github.com/sefffal/JuliaNotes/raw/master/julia-workshop.jl)
+* Paste URL to this notebook: [https://github.com/sefffal/JuliaNotes/raw/master/julia-workshop.jl](https://github.com/sefffal/JuliaNotes/raw/master/julia-workshop.jl)
